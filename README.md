@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD Shafikul Islam</h1>
-<h3 align="center">A am passionate in solving Optimization Problem, interested in Data Science and Machine Learning.</h3>
+<h3 align="center"> I am passionate about solving Optimization Problems and interested in Data Science and Machine Learning.</h3>
 
 - 🔭 I’m currently working on **Solving Operations Research Problem using Gurobi Python**
 
 - 🌱 I’m currently learning **Gurobi Python API**
 
-- 💬 Ask me about **Python, Gurobi ,**
+- 💬 Ask me about **Python, Gurobi ,CVXPY**
 
 - 📫 How to reach me **sohan11807044@gmail.com**
 
